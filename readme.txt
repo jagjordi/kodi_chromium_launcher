@@ -18,3 +18,8 @@ Launch Kodi >> Add-ons >> Get More >> .. >> Install from zip file
 Feel free to ask any questions on the Kodi Forums.
 
 Enjoy!
+
+
+Update:
+On Raspberry Pi 3B+ you get a proper Chromium Browser but the performance will lack due the capacities of the RPi3 so youtube in HD and other are a problem.
+In future I will test it on a Rpi 4. Maybe the 4GB version should give a proper Youtube & other playback ^^
